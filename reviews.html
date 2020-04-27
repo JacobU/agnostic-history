@@ -1,0 +1,16 @@
+---
+layout: post
+title: Book Reviews
+author: Kieren Underwood
+---
+
+<ul>
+    {% for category in site.categories %}
+        {% if category[0] == "books" %}
+            {% for post in category[1] %}
+                <li class="smalltext"><a href="{{ post.url }}">{{ post.title }}</a></li>
+                <em>{{ post.abstract }}</em>
+            {% endfor %}
+        {% endif %}        
+    {% endfor %}
+</ul>
