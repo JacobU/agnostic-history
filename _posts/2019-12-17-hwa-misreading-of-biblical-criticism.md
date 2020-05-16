@@ -3,6 +3,7 @@ title: Was Armstrongism Just a Misreading of Higher Biblical Criticism?
 abstract: Instead of the traditional approach to criticising Herbert W. Armstrong's theology, I wonder whether the end results can be seen as a poorly constructed reply to problems raised by the Higher Critics. Highly speculative, high risk of being interesting and totally wrong.
 layout: post
 categories: [cult, hwa]
+author: Kieren Underwood
 ---
 
 <div class='toc'>

@@ -3,6 +3,7 @@ title: Why Herbert W. Armstrong's Teachings Created So Many Atheists
 abstract: Herbert W. Armstrong was a doomsday cult leader with numerous strange teachings on history, evolution, salvation, and diet. I notice that many people who leave the cult tend to become atheists. Why does this happen? 
 layout: post
 categories: [cult, hwa]
+author: Kieren Underwood
 ---
 
 <div class='toc'>
@@ -42,7 +43,9 @@ The problem with inerrancy and what can happen to people when they stop believin
 
 Take, as a main example, The United States and Britain in Prophecy. Here, Armstrong tries to convince us the monarchy of ancient Israel never disappeared but was actually transferred into the British monarchy. In the middle of explaining that God had promised to keep the line of King David alive forever, Armstrong asks us:
 
-"Can one wonder that men like Thomas Paine and Robert Ingersoll lost faith in the Bible? They saw these unconditional promises, but they could not see how they had been kept. Yet, if we have patience, we shall see!"
+<blockquote>
+Can one wonder that men like Thomas Paine and Robert Ingersoll lost faith in the Bible? They saw these unconditional promises, but they could not see how they had been kept. Yet, if we have patience, we shall see!
+</blockquote>
 
 As a child, this passage was always very striking (and convincing) to me. Here's the syllogism Armstrong is trying to create:
 

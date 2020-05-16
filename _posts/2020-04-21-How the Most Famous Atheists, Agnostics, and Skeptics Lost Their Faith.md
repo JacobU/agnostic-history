@@ -1,5 +1,5 @@
 ---
-author: kieren
+author: Kieren Underwood
 title: How the Most Famous Atheists, Agnostics, and Skeptics Lost Their Faith
 abstract: Firsthand stories of how some of the most influential thinkers of all time lost their faith. 
 categories: [agnosticism]
